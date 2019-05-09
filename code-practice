@@ -51,14 +51,6 @@ h1 {
     font-weight: 900;
 }
 
-h1 grey {
-    color: #e20074;
-    text-decoration-style: solid;
-    text-decoration-color: #e20074;
-    font-family: verdana;
-    font-size: 40px;
-    font-weight: 900;
-}
 /*Subheading or sections on page*/
 h2{
     color: #e20074;
